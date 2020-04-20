@@ -1,0 +1,16 @@
+C:\Users\47977\source\repos\电影数据库\bin\Debug\电影数据库.exe.config
+C:\Users\47977\source\repos\电影数据库\bin\Debug\电影数据库.exe
+C:\Users\47977\source\repos\电影数据库\bin\Debug\电影数据库.pdb
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.login.resources
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.myinform.resources
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.Properties.Resources.resources
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.Register.resources
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.check.resources
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.theatre.resources
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.csproj.GenerateResource.cache
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.exe
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.pdb
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.Form_list.resources
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.movie_form.resources
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.Form1.resources
+C:\Users\47977\source\repos\电影数据库\obj\Debug\电影数据库.csprojAssemblyReference.cache
